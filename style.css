@@ -53,11 +53,13 @@ body{
     text-decoration: none;
     color: rgb(58, 56, 56);
     font-weight: bold;
+    padding:0.5rem 6.5rem 0.5rem 0.3rem;
+
 }
 .link:hover{
     background-color:rgb(165, 161, 161);
     border-radius: 0.3rem;
-    padding: 0.2rem;
+
     
 }
 .link:active{
